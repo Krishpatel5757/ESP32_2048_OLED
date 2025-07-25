@@ -56,7 +56,7 @@ Install these via PlatformIO.
 
 ## Preview
 
-![2048 Game OLED](images/2048_game.jpg)
+![2048 Game OLED](image/Game.jpg)
 
 > This image shows the current tile state on the OLED display. Numbers are displayed using custom bitmap fonts to save space.
 
