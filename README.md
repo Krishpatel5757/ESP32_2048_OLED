@@ -1,6 +1,6 @@
 # ESP32 2048 Game on OLED
 
-This project is a fully functional version of the classic **2048 game**, implemented on an **ESP32 microcontroller** with an **SSD1306 OLED display** and **push buttons** for input. The game challenges the player to combine tiles and reach the **2048 tile**—but the logic allows continuing all the way to **8192 and beyond**!
+This project is a fully functional version of the classic **2048 game**, implemented on an **ESP32 microcontroller** with an **SSD1306 OLED display** and **push buttons** for input. The game challenges the player to combine tiles and reach the **2048 tile** but the logic allows continuing all the way to **8192 and beyond**!
 
 ---
 
