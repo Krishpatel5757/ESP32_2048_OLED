@@ -13,7 +13,7 @@ This project is a fully functional version of the classic **2048 game**, impleme
 
 ---
 
-## 🛠 Hardware Used
+## Hardware Used
 
 | Component         | Details                          |
 |------------------|----------------------------------|
